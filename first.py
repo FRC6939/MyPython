@@ -2,11 +2,26 @@ print("Hello World!")
 fruit = ['a', 'b', 'c']
 for fru in fruit:
     print("H " + fru + " A")
-x = 2
-if  x < 5:
+print("Hello World!")
+print("Hello World!")
+x = 9
+if x<5:
     print("small")
-elif x>5 and x<10:
+if x>5 and x<10:
     print("large")
+print(3/2)
+print("Hello World!")
+fruit = ['a', 'b', 'c']
+for fru in fruit:
+    print("H " + fru + " A")
+print("Hello World!")
+print("Hello World!")
+x = 9
+if x<5:
+    print("small")
+if x>5 and x<10:
+    print("large")
+<<<<<<< HEAD
 else:print(3/2)
 
 cars = ['bmw', 'audi', 'toyato','BYD']
@@ -19,6 +34,13 @@ squares = [5]
 for value in range(1,10,2):squares.append(value**3);
 print(squares);print(sum(squares));squares.reverse();print(squares)
 
+<<<<<<< HEAD
 a=1;b=10;c=20;print(a>b)
 
 x=10;y=20;Z=30
+=======
+a=1;b=10;print(a>b)
+>>>>>>> parent of 51e544b... test
+=======
+print(3/2)
+>>>>>>> parent of 16dd4f8... update
