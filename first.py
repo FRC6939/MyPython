@@ -6,10 +6,26 @@ print("Hello World!")
 print("Hello World!")
 x = 9
 if x<5:
+<<<<<<< HEAD
+=======
     print("small")
 if x>5 and x<10:
     print("large")
 print(3/2)
+print("Hello World!")
+fruit = ['a', 'b', 'c']
+for fru in fruit:
+    print("H " + fru + " A")
+print("Hello World!")
+print("Hello World!")
+x = 9
+if x<5:
+>>>>>>> parent of 16dd4f8... update
+    print("small")
+if x>5 and x<10:
+    print("large")
+print(3/2)
+<<<<<<< HEAD
 print("Hello World!")
 fruit = ['a', 'b', 'c']
 for fru in fruit:
@@ -33,3 +49,5 @@ for value in range(1,10,2):squares.append(value**3);
 print(squares);print(sum(squares));squares.reverse();print(squares)
 
 a=1;b=10;c=20;print(a>b)
+=======
+>>>>>>> parent of 16dd4f8... update
