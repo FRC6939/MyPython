@@ -21,4 +21,4 @@ print(squares);print(sum(squares));squares.reverse();print(squares)
 
 a=1;b=10;c=20;print(a>b)
 
-x=10;y=20
+x=10;y=20;Z=30
