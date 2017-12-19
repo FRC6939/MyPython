@@ -20,5 +20,3 @@ for value in range(1,10,2):squares.append(value**3);
 print(squares);print(sum(squares));squares.reverse();print(squares)
 
 a=1;b=10;c=20;print(a>b)
-
-x=10;y=20
